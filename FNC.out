@@ -1,0 +1,13 @@
+Nr. neterminale: 7
+S A B C D E F 
+Nr. terminale: 2
+1 0 
+Simbol de start: $
+Nr. productii: 12
+S -> CA DB 
+A -> CE DS 0 
+B -> DF 1 
+C -> 1 
+D -> 0 
+E -> AA 
+F -> BB 

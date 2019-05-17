@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556622510 source:c:\facultate 2\lfa\tema 3 lfa\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<string.h>
+
+1558104673 source:c:\facultate 2\lfa\tema 3 lfa - copy\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+	<string.h>
+
